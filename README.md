@@ -1,11 +1,11 @@
 # Sentimental-Analysis-using-NLP-for-Canada-Post
 Many people used social media platforms like Yelp, and Google Reviews to share their experiences with companies like Canada Post, and Purolator. I and my teammates scrapped social media data to build a sentiment analysis model that can analyze social media posts and generate insights.
 
-Introduction:
+Introduction - 
 
 Canada Post, as a prominent postal service provider, receives a substantial volume of customer feedback through reviews and comments. This project focuses on analyzing this feedback to understand customer sentiments better. We go beyond simple positive/negative sentiment classification and aim to provide deeper insights into customer experiences.
 
-Features:
+Features - 
 
 •	Sentiment Analysis: Utilize Natural Language Processing (NLP) techniques to perform sentiment analysis on customer reviews.
 
@@ -15,7 +15,7 @@ Features:
 
 •	Recommendation Engine: Building on sentiment analysis insights, we aspire to develop a recommendation engine that suggests specific improvements Canada Post can make to its services. This could involve clustering similar reviews to identify common themes and generating actionable recommendations based on those themes.
 
-Usage:
+Usage - 
 
 •	Collect and preprocess customer reviews data.
 
@@ -25,7 +25,7 @@ Usage:
 
 •	Experiment with the recommendation engine to generate service improvement suggestions.
 
-Requirements:
+Requirements - 
 
 •	Anaconda Notebook/ Google Colab
 
